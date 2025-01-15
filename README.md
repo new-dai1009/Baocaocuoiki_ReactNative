@@ -16,8 +16,8 @@ Bước 1: Clone ứng dụng
 
 bash
 Copy code
-git clone https://github.com/username/your-react-native-project.git
-cd your-react-native-project
+git clone https://github.com/new-dai1009/Baocaocuoiki_ReactNative.git
+cd Baocaocuoiki_ReactNative
 Bước 2: Cài đặt phụ thuộc
 Sau khi clone dự án về máy tính, bạn cần cài đặt các phụ thuộc của ứng dụng:
 
@@ -44,21 +44,6 @@ Nếu bạn muốn chạy ứng dụng trên điện thoại di động thay vì
 
 Sau khi cài đặt, quét mã QR từ terminal để mở ứng dụng trên điện thoại.
 
-Cấu trúc thư mục
-Dưới đây là mô tả cấu trúc thư mục của dự án:
-
-css
-Copy code
-your-react-native-project/
-│
-├── node_modules/         # Thư mục chứa các thư viện phụ thuộc
-├── src/                  # Thư mục chứa mã nguồn của ứng dụng
-│   ├── components/       # Các thành phần UI của ứng dụng
-│   ├── screens/          # Các màn hình trong ứng dụng
-│   └── redux/            # Quản lý trạng thái của ứng dụng
-├── App.js                # Entry point của ứng dụng
-├── package.json          # Thông tin về các phụ thuộc và cấu hình dự án
-└── app.json              # Cấu hình của Expo
 Tùy chỉnh và phát triển thêm
 Bạn có thể phát triển thêm tính năng cho ứng dụng của mình bằng cách chỉnh sửa mã nguồn trong thư mục src/. Các thay đổi sẽ tự động được phản ánh trong trình duyệt khi bạn lưu lại.
 
